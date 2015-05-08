@@ -6,5 +6,8 @@
     "core-overlay": "Polymer/core-overlay#master",
     "font-roboto": "Polymer/font-roboto#master",
     "paper-button": "Polymer/paper-button#master"
-  }
+  },
+  "modified-by": [
+    "Nick Ewer <nick@fuzzymatter.com>"  
+  ]
 }
